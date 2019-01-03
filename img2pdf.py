@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  2 14:09:00 2018
 
-@author: b.sudheendra.kalyan
+@author: .kalyan
 """
 
 import os
